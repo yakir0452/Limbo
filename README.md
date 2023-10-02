@@ -1,2 +1,6 @@
 # Limbo
 fir10
+tokens = (
+    'PHPSTART', 'PHPVAR', 'PHPEQUAL', 'PHPFUNC',
+    'PHPSTRING', 'PHPECHO', 'PHPCOLON', 'PHPCOMA',
+    'PHPOPEN', 'PHPCLOSE', 'PHPNUM', 'PLUSMINUS', 'DIVMUL'
